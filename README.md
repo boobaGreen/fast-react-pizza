@@ -1,6 +1,6 @@
 # 🌿 FAST REACT PIZZA 🍽
 
-SPA that manage a pizza delivery ( cash payment ) form Jonas Schmedtmann Udemy course : https://www.udemy.com/course/the-ultimate-react-course/
+SPA that manage a pizza delivery ( cash payment ) form Jonas Schmedtmann Udemy React 2023 course : https://www.udemy.com/course/the-ultimate-react-course/
 
 ## :zap: Try it!
 
