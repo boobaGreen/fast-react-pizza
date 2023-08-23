@@ -12,6 +12,7 @@ You can simply try it here:
 - HTML5
 - CSS3/SAAS
 - Javascript ES6
+- Tailwind
 - React
 
 ## Deploy
